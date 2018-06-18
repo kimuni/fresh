@@ -13,7 +13,7 @@ url: "http://kimuni.github.io" # the base hostname & protocol for your site, e.g
 facebook: #Add your Facebook
 twitter: #Add your Twitter
 google-plus: #Add your Google+
-github:http://kimuni.github.io #Add your Github
+github: kimuni #Add your Github
 
 # Contact form
 email: #your-email@domain.com

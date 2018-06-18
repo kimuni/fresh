@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Travel, the joy of life."
-img: 다운로드 (1).jpg
+img: abc.jpg
 date:   2018-02-07 00:00:00 +0200
 description: I wish you a pleasant trip.
 ---
